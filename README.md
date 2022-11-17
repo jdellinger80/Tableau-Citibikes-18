@@ -4,7 +4,7 @@
 
 * Save this assignment to your Tableau Public account rather than GitHub. 
 
-* If you haven't already, make sure to create a Tableau Public [account] (https://public.tableau.com/s/).
+* If you haven't already, make sure to create a Tableau Public [account] (https://public.tableau.com/app/profile/james.dellinger/viz/citiibikes1/Sheet4).
 
 * The free tier of Tableau only lets you save to their public server. So, each time you save your file, it will be uploaded to your Tableau Public profile. 
 
